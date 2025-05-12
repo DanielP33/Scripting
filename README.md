@@ -23,5 +23,9 @@ Each one has an enable/disable toggle built-in.
 
 
 SOON:
+
 Firefox Footprint Manager
+A bash script which extracts your cookies, browsing history and cache to another drive for backup with ease and speed.
+
 Admin Toolbox
+[description to be made]
