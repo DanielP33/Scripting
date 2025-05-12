@@ -19,3 +19,9 @@ Each one has an enable/disable toggle built-in.
 
 - [W11-ContextMenu.ps1](./Windows%2010%20&%2011/W11-ContextMenu.ps1)  
   Enables/Disables classic context menu in Windows 11.
+
+
+
+SOON:
+Firefox Footprint Manager
+Admin Toolbox
